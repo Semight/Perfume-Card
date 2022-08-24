@@ -17,7 +17,7 @@ body {
     width: 100%;
 }
 
-.desktop {
+.desktop-pic {
     width: 100%;
     height: 100%;
 }
@@ -49,11 +49,11 @@ p {
 }
 
 .price {
-    color: var(--main-Color);
+    color: #3D8168;
     font-weight: bold;
     display: inline-block;
     font-size: 42px;
-    color: #3D8168;
+    
 }
 
 .old-price {
