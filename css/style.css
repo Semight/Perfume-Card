@@ -72,6 +72,7 @@ p {
     text-align: center;
     border-radius: 5px;
     justify-content: center;
+    cursor: pointer;
 }
 .btn img {
     top: 10px;
